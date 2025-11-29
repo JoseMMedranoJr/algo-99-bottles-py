@@ -8,5 +8,5 @@ def bottle_song(i):
 			print(f'{i} bottles of beer on the wall, {i} bottles of beer.\nTake one down and pass it around, {j} bottles of beer on the wall.{j} of bottles')
 		i = j
 
-		
+	
 bottle_song(99)
